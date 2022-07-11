@@ -18,13 +18,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Report_1.c">
+    <ClCompile Include="Report1_1.c">
       <Filter>소스 파일\Report1</Filter>
     </ClCompile>
-    <ClCompile Include="Report_2.c">
+    <ClCompile Include="Report1_2.c">
       <Filter>소스 파일\Report1</Filter>
     </ClCompile>
-    <ClCompile Include="Report_3.c">
+    <ClCompile Include="Report1_3.c">
       <Filter>소스 파일\Report1</Filter>
     </ClCompile>
   </ItemGroup>

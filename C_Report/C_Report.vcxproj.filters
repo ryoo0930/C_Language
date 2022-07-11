@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Report1">
       <UniqueIdentifier>{303b4f48-bcb3-4f99-8d51-21df6a08e513}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Report2">
+      <UniqueIdentifier>{367e1a99-1295-4ced-91ed-2753abdda51b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Report1_1.c">
@@ -26,6 +29,15 @@
     </ClCompile>
     <ClCompile Include="Report1_3.c">
       <Filter>소스 파일\Report1</Filter>
+    </ClCompile>
+    <ClCompile Include="Report2_1.c">
+      <Filter>소스 파일\Report2</Filter>
+    </ClCompile>
+    <ClCompile Include="Report2_2.c">
+      <Filter>소스 파일\Report2</Filter>
+    </ClCompile>
+    <ClCompile Include="Report2_3.c">
+      <Filter>소스 파일\Report2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
